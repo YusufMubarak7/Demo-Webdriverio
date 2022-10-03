@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//ol[@class='TagIndex__Cols']/li"
+}

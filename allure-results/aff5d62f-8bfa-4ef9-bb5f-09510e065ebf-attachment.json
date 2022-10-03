@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"col-6 col-md footer-column\"]/ul/li/a"
+}

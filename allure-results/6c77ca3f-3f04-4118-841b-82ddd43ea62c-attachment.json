@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "Unable to locate element: .search-results-meta>span",
+  "stacktrace": "WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:188:5\nNoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:400:5\nelement.find/</<@chrome://remote/content/marionette/element.js:292:16\n"
+}
